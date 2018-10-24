@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Christian Loth/Documents/eclipse/Craftbukkit/iConomy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Christian Loth/Documents/eclipse/Craftbukkit/KingKits-3.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Christian Loth/Documents/eclipse/Craftbukkit/craftbukkit-1.6.1-R0.1-20130703.085909-10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Christian Loth/Documents/eclipse/Craftbukkit/bukkit-1.8.1-R5-20111101.032652-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

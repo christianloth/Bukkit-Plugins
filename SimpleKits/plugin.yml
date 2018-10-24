@@ -1,0 +1,224 @@
+name: SimpleKits
+version: 1.0
+description: Coustom coded for SimpleKits.
+author: Christian || Eexar
+depends: [KingKits, iConomy]
+main: us.simplekits.kits.Main
+
+commands:
+  chef:
+    description: kit.
+  jumper:
+    description: kit.
+  vector:
+    description: l0l.
+  anchor:
+    description: kit.
+  warrior:
+    description: kit.
+  tornado:
+    description: kit.
+  sniper:
+    description: kit.
+  ezfake:
+    description: kit.
+  strafe:
+    description: kit.
+  teleporter:
+    description: kit.
+  pitcher:
+    description: kit.
+  bomber:
+    description: kit.
+  freezer:
+    description: kit.        
+  staffchat:
+    description: sc.
+  sc:
+    description: sc.
+  beton:
+    description: Bet.
+  betoff:
+    description: Bet.
+  bet:
+    description: Bet.
+  freezer:
+    description: Kit.
+  eexar:
+    description: Kit.
+  hgphantom:
+    description: Hg Kit.
+  hgGrappler:
+    description: Hg Kit.
+  hgendermage:
+    description: hgAnchor.
+  hganchor:
+    description: hgAnchor.
+  kick:
+    description: Kick someone.
+  ban:
+    description: Ban someone.
+  unban:
+    description: Pardon someone.
+  pardon:
+    description: Pardon someone.
+  kitlist:
+    description: Donate.
+  special:
+    description: Donate.
+  donate:
+    description: Donate.
+  donor:
+    description: Donate.
+  superdonor:
+    description: Donate.
+  ultradonor:
+    description: Donate.
+  police:
+    description: Donate. 
+  hgarcher:
+    description: hgArcher.
+  hgfisherman:
+    description: hgFisherman.
+  hgswitcher:
+    description: hgSwitcher.
+  hgkangaroo:
+    description: hgKangaroo.
+  hgrhino:
+    description: hgRhino.
+  hgturtle:
+    description: hgTurtle. 
+  hgstomper:
+    description: hgStomper.
+  hgearly:
+    description: hgEarly. 
+  rhino:
+    description: Rhino.      
+  turtle:
+    description: Turtle.
+  soup:
+    description: Summon soup.   
+  refill:
+    description: summon soup.    
+  joinlms:
+    description: Join Lms.           
+  hostlms:
+    description: Vanish / Un-vanish      
+  va:
+    description: Vanish / Un-vanish
+  joinlms:
+    description: Join the LMS.
+  bcmsg:
+    description: Broadcast message
+  hgkit:
+    description: Vanish / Un-vanish
+  clearchat:
+    description: Warp to KOTH.
+  cc:
+    description: Warp to KOTH.
+  kit:
+    description: View your kits.
+  go:
+    description: Warp somewhere.
+  kitshop:
+    description: ...    
+  skyfall:
+    description: Warp to Skyfall.          
+  feast:
+    description: Warp to Feast.
+  koth:
+    description: Warp to KOTH.
+  rod:
+    description: Warp to ROD.
+  spleef:
+    description: Warp to Spleef.
+  brackets:
+    description: Warp to Brackets.
+  console:
+    description: Ping the consle.
+  drop:
+    description: Drop an item in your hand.
+  yourmom:
+    description: HAHAHA!!
+  rep:
+    description: Repair your Armor and Sword.
+  help:
+    description: Help.
+  pvp:
+    description: Chooze kit PvP!
+  archer:
+    description: Chooze kit Archer!
+  admin:
+    description: Only for OPs!
+  sr:
+    description: NoneYa.    
+  megafight:
+    description: OpFights!
+  megafights:
+    description: OpFights!
+  mc:
+    description: Mute the chat.
+  mutechat:
+    description: Mute the chat.       
+  pro:
+    description: Kit.
+  earlyhg:
+    description: Kit.
+  fireman:
+    description: Kit.
+  stomper:
+    description: Kit.
+  endermage:
+    description: Kit.
+  tank:
+    description: Kit.
+  scout:
+    description: Kit.
+  switcher:
+    description: Kit.
+  thor:
+    description: Kit.
+  witherman:
+    description: Kit.  
+  viking:
+    description: Kit.
+  fisherman:
+    description: Kit.
+  earthquake:
+    description: Kit.
+  snail:
+    description: Kit.
+  viper:
+    description: Kit.
+  monk:
+    description: Kit.
+  witnerman:
+    description: Kit.
+  wizard:
+    description: Kit.
+  assassin:
+    description: Kit.
+  kangaroo:
+    description: Kit.
+  blaze:
+    description: Kit.
+  batman:
+    description: Kit.
+  gunman:
+    description: Kit.
+  cactus:
+    description: Kit.
+  flash:
+    description: Kit.
+  grappler:
+    description: Kit.
+  vampire:
+    description: Kit.
+  grandpa:
+    description: Kit.
+  specialist:
+    description: Kit.
+  bezerker:
+    description: Kit.
+  timelord:
+    description: Kit.                    
