@@ -1,0 +1,11 @@
+name: SimpleEvents
+version: 1.0
+description: Coustom events coded for SimpleKits.
+author: Christian || Eexar
+main: us.simplekits.events.Main
+
+commands:
+  hg:
+    description: Hg.
+  wool:
+    description: Wool.      

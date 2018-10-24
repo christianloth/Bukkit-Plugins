@@ -1,0 +1,9 @@
+name: Lms
+version: 1.0
+description: Coustom events coded for SimpleKits.
+author: Christian || Eexar
+main: lms.Eexar.Main
+
+commands:
+  lms:
+    description: Join the Lms.    
